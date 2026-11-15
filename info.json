@@ -1,0 +1,14 @@
+{
+  "name": "DataDrivenResearch",
+  "version": "0.1.0",
+  "title": "Data Driven Research",
+  "author": "bev",
+  "contact": "",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1",
+    "tech-cards-retexture-AI-powered >= 0.0.6",
+    "? space-age"
+  ],
+  "description": "Potion-making is never used in proper science. Serious science is based on data from experiments.\nHow is it that such different recipes all produce small flasks of potions?\nThis mod therefore transforms science packs into data cards and laboratories into research computers."
+}
